@@ -14,7 +14,7 @@ Required Python libraries.
 !pip install transformers[torch]
 !pip install accelerate -U
 
-#Usage
+# Usage
 
 File Paths
 file_path = "/content/drive/MyDrive/gpt_1/gpt_sub_1/neural.txt"
