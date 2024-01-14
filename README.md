@@ -6,7 +6,7 @@ This repository contains Python code for training a GPT-2 model on a given datas
 2. Usage
 
 # Installation
-To run this code, you can run it on Google Colab.
+To run this code, you can run it on [Google Colab.](https://colab.research.google.com/github/Disciplined-22/gpt_2train_1/blob/main/gpt2_1.ipynb) 
 
 ## Required Python libraries.
 1. !pip install -U accelerate
