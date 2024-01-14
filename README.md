@@ -22,7 +22,7 @@ file_path = "/content/drive/MyDrive/gpt_1/gpt_sub_1/neural.txt"
 output_dir = '/content/drive/MyDrive/gpt_1/gpt_sub_2'
 
 Change the file path to your drive's folder
-The "file_path" directs to .txt file that contents the data or the context.
+The "file_path" directs to .txt file that contents the data or the context. 
 #
 The "output_dir" directs to another folder which would be used to save the tokenizer and model data in the directory.
 
