@@ -26,10 +26,14 @@ The "output_dir" directs to another folder which would be used to save the token
 
 The main functions in this repository are:
 
-train: This function trains a GPT-2 model on a given dataset.
-load_model: This function loads a pre-trained GPT-2 model from a given path.
-load_tokenizer: This function loads a pre-trained GPT-2 tokenizer from a given path.
-generate_text: This function generates text using a pre-trained GPT-2 model.
+#### train: 
+This function trains a GPT-2 model on a given dataset.
+#### load_model: 
+This function loads a pre-trained GPT-2 model from a given path.
+#### load_tokenizer: 
+This function loads a pre-trained GPT-2 tokenizer from a given path.
+#### generate_text: 
+This function generates text using a pre-trained GPT-2 model.
 You can import these functions into your own Python scripts to use them. 
 
 from gpt2 import train, load_model, load_tokenizer, generate_text
