@@ -14,7 +14,7 @@ To run this code, you can run it on [Google Colab.](https://colab.research.googl
 3. !pip install transformers[torch]
 4. !pip install accelerate -U
 
-# Usage
+## Usage
 
 File Paths
 file_path = "/content/drive/MyDrive/gpt_1/gpt_sub_1/neural.txt"
