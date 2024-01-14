@@ -5,15 +5,14 @@ This repository contains Python code for training a GPT-2 model on a given datas
 1. Installation
 2. Usage
 
-
 # Installation
 To run this code, you can run it on Google Colab.
 
 ## Required Python libraries.
-!pip install -U accelerate
-!pip install -U transformers
-!pip install transformers[torch]
-!pip install accelerate -U
+1. !pip install -U accelerate
+2. !pip install -U transformers
+3. !pip install transformers[torch]
+4. !pip install accelerate -U
 
 # Usage
 
