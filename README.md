@@ -2,8 +2,8 @@
 This repository contains Python code for training a GPT-2 model on a given dataset, loading a pre-trained GPT-2 model and tokenizer, and generating text using a pre-trained GPT-2 model.
 
 # Table of Contents
-Installation
-Usage
+•	Installation
+•	Usage
 
 # Installation
 To run this code, you can run it on Google Colab.
