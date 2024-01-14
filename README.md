@@ -18,6 +18,7 @@ To run this code, you can run it on [Google Colab.](https://colab.research.googl
 
 ### File Paths
 file_path = "/content/drive/MyDrive/gpt_1/gpt_sub_1/neural.txt"
+#####
 output_dir = '/content/drive/MyDrive/gpt_1/gpt_sub_2'
 
 Change the file path to your drive's folder
